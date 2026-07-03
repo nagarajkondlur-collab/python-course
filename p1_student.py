@@ -1,0 +1,7 @@
+name = input("Student Name: ")
+roll = input("Roll No: ")
+college = input("College: ")
+print("\n--- STUDENT DETAILS ---")
+print("Name:", name)
+print("Roll No:", roll)
+print("College:", college)
