@@ -1,2 +1,2 @@
-dailu 1% improment
+daily 1% improvement
 code before college
