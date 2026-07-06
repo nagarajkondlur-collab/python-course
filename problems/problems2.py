@@ -1,3 +1,4 @@
+# problem 2 : bill 
 item = input("item : ")
 price = float(input("price : "))
 qty = int(input("quantity : "))
