@@ -18,12 +18,12 @@ day3  |string datatype access and|                 |
 - *Current Streak*: 3 days 🟩🟩🟩
 - 
 - ## 🔥 Coding Stats
-- *Total Problems*: 7
+- *Total Problems*: daily changes
 - *Languages*: Python
 - *GitHub Streak*: [github.com/yourname](https://github.com/nagarajkondlur-collab)
 
 ## 📬 Contact
-- *Email*: your.email@ksit.ac.in
+- *Email*: nagaraj.kondlur@gmail.com
 - *LinkedIn*: [linkedin.com/in/yourname](https://linkedin.com/in/nagaraj.ys)
 - *GitHub*: [github.com/yourname](https://github.com/nagaraj.ys)
 
