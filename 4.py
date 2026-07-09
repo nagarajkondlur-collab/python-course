@@ -24,3 +24,18 @@ print(a<10)
 print(a<=25)
 print(a>=25)
 
+
+#  operators-logical operators
+print(1>2 and 2>1) ## here when and is used it applies on both means it check both operation ,2 also bosses
+print(1>2 or 2>1) ## here it applys on only one opertion , if one is true then whole code is true
+
+# operators- membership operators
+s = " microsoft"
+print("m" in s) ## to tell presence and absence of letter
+print("z" in s)
+s2 = "amazon"
+print(("m" in s) and ("i" in s2))
+print(("t" in s) and ("a" in s2))
+print(("m" in s) or ("k" in s2))
+print(not("k" in s))
+
