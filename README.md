@@ -18,7 +18,7 @@ check my git hub profile   (https://github.com/nagarajkondlur-collab)
 
 ## 📬 Contact
 - *Email*: nagaraj.kondlur@gmail.com
-- *LinkedIn*: [linkedin.com/in/yourname](https://linkedin.com/in/nagaraj.ys)
-- *GitHub*: [github.com/yourname](https://github.com/nagaraj.ys)
+- *LinkedIn*: [linkedin.com/in/Nagaraj.ys](https://linkedin.com/in/nagaraj.ys)
+- *GitHub*: [github.com/Nagaraj.ys](https://github.com/nagaraj.ys)
 
 🚀 *Follow my coding journey!* 💪
