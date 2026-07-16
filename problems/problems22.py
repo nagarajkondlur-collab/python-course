@@ -66,5 +66,31 @@ print(set(numbers))
 print(list(numbers))
 print(sorted(numbers)) # use sorted
 
+##OTHER TYPE....
 
+
+numbers = [5, 2, 8, 5, 1, 2, 9, 7, 8, 10]
+
+# Remove duplicates
+unique = set(numbers)
+
+# Convert back to list
+new_list = list(unique)
+
+# Sort the list
+new_list.sort()
+
+print("Sorted List:", new_list)
+
+print("Even Numbers:")
+
+for i in new_list:
+    if i % 2 == 0: 
+        print(i)
+        
+# % is the modulus operator. It returns the remainder after division. If a number divided by 2 gives a remainder of 0, then it is an even number. Otherwise, it is an odd number.
+
+for i in new_list:
+    if i % 2 != 0: 
+        print(i)
 
