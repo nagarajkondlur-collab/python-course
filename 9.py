@@ -40,15 +40,7 @@ while i<=10:
   print("")
   i = i+1
   
-  # some  real world examples
-  
-pin = "1234"
-input_pin = input("pin -") 
-  
-if input_pin =="pin":
-   print("CORRECT")
-else:
-   print("INCORRECT")
+ 
     
   
   
